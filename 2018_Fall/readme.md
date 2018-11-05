@@ -54,7 +54,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Nordvik, Aaron
 - [ ] Pace-Emerson, Tam
 - [X] Peacock, Scott
-- [ ] Pflucker, Cristina
+- [X] Pflucker, Cristina
 - [ ] Pires, Mila
 - [ ] Roth, Sam
 - [ ] Rowe, Rebecca
